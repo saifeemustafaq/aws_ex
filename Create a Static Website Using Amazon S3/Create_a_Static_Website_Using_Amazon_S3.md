@@ -26,4 +26,4 @@ On the next page where you will be creating the bucket:
 3. An acknowledgement will open up as soon as you uncheck the **Block all public access**
 4. Finally leave rest of th options as it is and create the bucket.
 
-![Settings for the new bucket creation](./uniqueName.png)
+![Settings for the new bucket creation](./uniqueName1.png)
