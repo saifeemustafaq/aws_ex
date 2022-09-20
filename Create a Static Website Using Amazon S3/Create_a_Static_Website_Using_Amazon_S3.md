@@ -1,3 +1,5 @@
+# Create a Static Website Using Amazon S3
+
 Let’s get started:
 
 Sam is in the 3rd year of her engineering course. And she is worried about getting a project on her resume. After a lot of thought Sam decided to host a website, but was not sure what to host on the website. Sam asked her mentor about a solution, for which the mentor suggested that she should host her resume on a website using HTML and CSS, the task was simple, effective and impactful.
@@ -6,7 +8,7 @@ Sam decided to host it using AWS cloud, after a lot of reseaerch she wrote down 
 - She wants the solution to be easy to understand and deploy.
 - Using S3 bucket the solution would be fast and simple. And she can use the Static website hosting option to put the website live.
 
-# Part 1: Set up the bucket
+## Part 1: Create an S3 bucket
 
 First step is to make a website using HTML CSS locally. Or you can consume this template(HTML/CSS) and edit the values as you want: https://github.com/saifeemustafaq/html_css_resume_template
 
@@ -16,9 +18,13 @@ Head over to the AWS console: https://aws.amazon.com/console and type "**S3**" i
 
 ![Home page of AWS Console](./homePage.png)
 
+---
+
 This will lead you to the following page where you have to click on _**Create bucket**_
 
 ![Create bucket button](./createBucket.png)
+
+---
 
 On the next page where you will be creating the bucket:
 1. Give a unique name for the bucket in all small caps (example: bucketmaster9000)
