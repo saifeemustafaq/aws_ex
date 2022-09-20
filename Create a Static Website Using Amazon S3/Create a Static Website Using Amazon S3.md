@@ -8,8 +8,10 @@ Saif decided to host it using AWS cloud, after a lot of reseaerch she wrote down
 
 First step is to make a website using HTML CSS locally. Or you can consume this template(HTML/CSS) and edit the values as you want: https://github.com/saifeemustafaq/html_css_resume_template
 
-Head over to the AWS console: https://aws.amazon.com/console and type "S3" in the search bar right on the top
 (I am considering that you already have registered for an AWS account)
+
+Head over to the AWS console: https://aws.amazon.com/console and type "**S3**" in the search bar right on the top. Click on **S3** that is now visible in the results.
+
 
 ![Home page of AWS Console](./homePage.png)
 
