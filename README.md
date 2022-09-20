@@ -3,7 +3,7 @@ Exercises for AWS for students
 
 AWS for college students. Learn by doing.
 
-1. [Create a Static Website Using Amazon] S3(https://github.com/saifeemustafaq/aws_ex/blob/main/Create%20a%20Static%20Website%20Using%20Amazon%20S3/Create_a_Static_Website_Using_Amazon_S3.md)
+1. [Create a Static Website Using Amazon S3](https://github.com/saifeemustafaq/aws_ex/blob/main/Create%20a%20Static%20Website%20Using%20Amazon%20S3/Create_a_Static_Website_Using_Amazon_S3.md)
 2. Triggering AWS Lambda from Amazon SQS
 3. Create a DynamoDB Table Using CloudFormation
 4. Working With AWS Managed Policies, Customer Managed Policies, and Inline Policies
