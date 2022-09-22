@@ -54,15 +54,15 @@ On the next page where you will be creating the bucket:
 
 - Click on the **Upload** buttion on the following screen.
 
-- On the next page click on Add files(if you are adding the files directly) or Add folders(if you want to upload the whole folder containing the respective files) and proceed to selecting your files/folders
+- On the next page click on Add files and proceed to selecting your files.
 
   ![Displaying the Bucket that we created](./images/openBucket.png)
-  ![Click th upload button](./images/uploadButton.png)
+  ![Click the upload button](./images/uploadButton.png)
   ![Add Files/Add Folder](./images/uploadPage.png)
 
 > I have downloaded the [index.html style.css](https://github.com/saifeemustafaq/html_css_resume_template/archive/refs/heads/master.zip) hence I have a folder named "html_css_resume_template" containing the HTML and CSS files
 > 
-> I will be uploading the whole folder here.
+> I will be uploading the all the files here.
 
 ![Final upload button](./images/finalUpload.png)
 
@@ -154,3 +154,4 @@ After clicking on the edit button, **Edit static website hosting** page will com
 
 - Go back to Properties. Scroll down to the bottom till you reach Static website hosting section. Click on the URL.
 
+And voila, your Static Resume Website is hosted.
