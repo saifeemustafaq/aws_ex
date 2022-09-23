@@ -3,8 +3,6 @@ Exercises for AWS for students
 
 AWS for college students. Learn by doing.
 
-1. [Create a Static Website Using Amazon S3](https://github.com/saifeemustafaq/aws_ex/tree/main/Create%20a%20Static%20Website%20Using%20Amazon%20S3)
-
 | Sr. No. | Name of Exercise                                                                            |
 |---------|---------------------------------------------------------------------------------------------|
 | 1       | [Create a Static Website Using Amazon S3](https://github.com/saifeemustafaq/aws_ex/tree/main/Create%20a%20Static%20Website%20Using%20Amazon%20S3)                                                    |
