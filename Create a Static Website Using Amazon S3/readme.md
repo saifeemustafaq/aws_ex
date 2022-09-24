@@ -11,7 +11,9 @@ Sam decided to host it using AWS cloud, after a lot of reseaerch she wrote down 
 ## Part 1: Create an S3 bucket
 
 ### 1. Get the files
-First step is to make a website using HTML CSS locally. Or you can consume this template(HTML/CSS) and edit the values as you want: https://github.com/saifeemustafaq/html_css_resume_template
+First step is to make a website using HTML CSS locally. Or you can consume this template(HTML/CSS) and edit the values as you want: https://github.com/saifeemustafaq/html_css_jen_looper_template/archive/refs/heads/main.zip
+
+This is how your resume will look at the end of this exercise: https://jlooper.github.io/build-resume-workshop/solution/
 
 (I am considering that you already have registered for an AWS account)
 
@@ -46,7 +48,7 @@ On the next page where you will be creating the bucket:
 
 - Assuming that you have:
   1. Either created your own HTML CSS files
-  2. Or you have downloaded the [index.html style.css](https://github.com/saifeemustafaq/html_css_resume_template/archive/refs/heads/master.zip)
+  2. Or you have downloaded the [index.html style.css](https://github.com/saifeemustafaq/html_css_jen_looper_template/archive/refs/heads/main.zip)
 
 - For the sake of this tutorial I will be uploading the above downloaded files on the S3 bucket that we have created.
 
@@ -60,9 +62,9 @@ On the next page where you will be creating the bucket:
   ![Click the upload button](./images/uploadButton.png)
   ![Add Files/Add Folder](./images/uploadPage.png)
 
-> I have downloaded the [index.html style.css](https://github.com/saifeemustafaq/html_css_resume_template/archive/refs/heads/master.zip) hence I have a folder named "html_css_resume_template" containing the HTML and CSS files
+> I have downloaded the [index.html style.css](https://github.com/saifeemustafaq/html_css_jen_looper_template/archive/refs/heads/main.zip)
 > 
-> I will be uploading the all the files here.
+> I will be uploading all the files here.
 
 ![Final upload button](./images/finalUpload.png)
 
@@ -155,3 +157,5 @@ After clicking on the edit button, **Edit static website hosting** page will com
 - Go back to Properties. Scroll down to the bottom till you reach Static website hosting section. Click on the URL.
 
 And voila, your Static Resume Website is hosted.
+
+![Final Resume](./images/finalResume.png)
